@@ -1,7 +1,7 @@
 {
   "versionCode": 2,
   "apkUrl": "https://github.com/ahmetarizx/hdbot/releases/download/v1.0.0/hdbot.apk",
-  "apkHash": "64ddc6bf00e86f17d59649c8e456f5d32c9366b533cbd14c7c23213e5dd082eb",
+  "apkHash": "0887ed25cad68871c2fe49a94f820095225aa6bb97bc9a98c90e8d4a86f2b5ca",
   "forceUpdate": true,
   "changelog": {
     "tr": "• Optimizasyon sorunları giderildi",
