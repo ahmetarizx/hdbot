@@ -4,7 +4,7 @@
   "apkHash": "f18df4793698b91b92ad944cde372db26f5cc865375f118a0852204a24e5d77f",
   "forceUpdate": true,
   "changelog": {
-    "tr": "• Optimizasyon sorunları giderildi",
-    "en": "• Optimization issues fixed"
+    "tr": "• Her hesabın seviyesine göre özelleştirilmiş satılacak kutu sayısı eklendi.\n• Popup hizmetleri isteğe bağlı olarak açılıp kapatılabilir.\n• Optimizasyon sorunları giderildi.",
+    "en": "• The number of sale boxes is now customized based on each account’s level.\n• Popup services can now be turned on or off optionally.\n• Optimization issues fixed."
   }
 }
