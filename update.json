@@ -1,7 +1,7 @@
 {
   "versionCode": 3,
   "apkUrl": "https://github.com/ahmetarizx/hdbot/releases/download/v1.2.0/hdbot.apk",
-  "apkHash": "f18df4793698b91b92ad944cde372db26f5cc865375f118a0852204a24e5d77f",
+  "apkHash": "04d46c6c7b72a09085f9e1b1b15ccba3616f0ea8df7f42c837654a924951ad99",
   "forceUpdate": true,
   "changelog": {
     "tr": "• Her hesabın seviyesine göre özelleştirilmiş satılacak kutu sayısı eklendi.\n• Popup hizmetleri isteğe bağlı olarak açılıp kapatılabilir.\n• Optimizasyon sorunları giderildi.",
